@@ -50,7 +50,7 @@ Les algorithmes étudiés incluent :
 
 ```bash
 git clone https://github.com/sobjiolagnol/RECSYS-COMPARISON.git
-cd recommandation
+cd RECSYS-COMPARISON
 ```
 
 ### 2. Créer un environnement Python
