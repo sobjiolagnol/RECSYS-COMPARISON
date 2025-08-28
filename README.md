@@ -49,7 +49,7 @@ Les algorithmes étudiés incluent :
 ### 1. Cloner le projet
 
 ```bash
-git clone [https://github.com/username/recommandation.git](https://github.com/sobjiolagnol/RECSYS-COMPARISON.git)
+git clone https://github.com/sobjiolagnol/RECSYS-COMPARISON.git
 cd recommandation
 ```
 
